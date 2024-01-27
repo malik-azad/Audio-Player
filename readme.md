@@ -11,7 +11,7 @@
 ==========================================================
 #### ** Original Version**
 - **Developed/Published By:** Malik Azad
-- **Uploaded/Published at:** [malik-azad.github.io/audio](http://www.malik-azad.github.io/audio)
+- **Uploaded/Published at:** [malik-azad.github.io/audio](http://malik-azad.github.io/audio)
 
 
 ==========================================================
