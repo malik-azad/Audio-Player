@@ -1,4 +1,4 @@
-## **Simple Music Player Application in JavaScript**
+## **Simple Audio Player Application in JavaScript**
 ==========================================================
 
 ### Technologies
@@ -10,12 +10,9 @@
 ### **Developement Information**
 ==========================================================
 #### ** Original Version**
-- **Developed/Published By:** Suraj Ghosh
-- **Uploaded/Published at:** [https://www.kashipara.com/project/javascript/4835/music-player](https://www.kashipara.com/project/javascript/4835/music-player) 
-==========================================================
-#### ** Modified Version**
-- **Modified By:** oretnom23
-- **Published at:** [https://sourcecodester.com/javascript-music-player-app-source-code](https://sourcecodester.com/javascript-music-player-app-source-code) 
+- **Developed/Published By:** Malik Azad
+- **Uploaded/Published at:** [https://malik-azad.github.io/audio]([https://www.kashipara.com/project/javascript/4835/music-player](https://malik-azad.github.io/audio)) 
+
 
 ==========================================================
 #### **Modification Information**
@@ -24,8 +21,5 @@
 ==========================================================
 
 ==========================================================
-#### **Audio Path**
-- **ROOT DIR >> MUSIC**
-#### **Images Path**
-- **ROOT DIR >> IMG**
+Made with Love by [Malik Azad](https://www.linkedin.com/in/malikazad)
 ==========================================================
