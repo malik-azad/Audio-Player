@@ -11,7 +11,7 @@
 ==========================================================
 #### ** Original Version**
 - **Developed/Published By:** Malik Azad
-- **Uploaded/Published at:** [https://malik-azad.github.io/audio]([https://www.kashipara.com/project/javascript/4835/music-player](https://malik-azad.github.io/audio)) 
+- **Uploaded/Published at:** [malik-azad.github.io/audio](https://www.malik-azad.github.io/audio)
 
 
 ==========================================================
